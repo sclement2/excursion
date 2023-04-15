@@ -7,7 +7,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "@popperjs/core": "^2.11.6",
+    "@popperjs/core": "^2.11.7",
     "bootstrap": "^5.2.3",
     "esbuild": "^0.16.17",
     "function-bind": "^1.1.1",
